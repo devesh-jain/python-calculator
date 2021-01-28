@@ -7,5 +7,5 @@
  2. Just download and run the main.py file.
 
 ---
-### Be sure to stargaze the repository and also checkout [My Website](https://rohandas28.github.io/) to contact me.
+### Be sure to stargaze the repository
 #### Thank You.
